@@ -1,3 +1,3 @@
 #######################
-#welcome to GodDongWon#
+#welcome to Git World!#
 #######################
