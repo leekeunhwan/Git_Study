@@ -2,5 +2,9 @@
 #welcome to Git World!#
 #######################
 
-rebase setup
-rebase setup2
+Always Be Happy!
+Always Be Happy!
+Always Be Happy!
+Always Be Happy!
+Always Be Happy!
+Always Be Happy!
